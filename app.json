@@ -13,19 +13,19 @@
 	"stack": "container",
 	"env": {
 		"API_ID": {
-			"description": "API_ID from my.telegram.org",
+			"description": "23678651",
 			"required": true
 		},
 		"API_HASH": {
-			"description": "API_ID from my.telegram.org",
+			"description": "a1bcb2e0191095a0758e29280cf55933",
 			"required": true
 		},
 		"API_TOKEN": {
-			"description": "API_TOKEN from @botfather",
+			"description": "7518391104:AAGR97S_pwer2qVP0OGHh_0KJ8GVv3Nlcic",
 			"required": true
 		},
 		"MONGODB_URI": {
-			"description": "MongoDB Url",
+			"description": "mongodb+srv://nibimij336:<db_password>@cluster0.v3nkk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 			"required":true
 		},
 		"UPDATE_CHANNEL": {
